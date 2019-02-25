@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1526148497 source:c:\users\rinya_gsyab7b\desktop\ital2\cocktail.cpp
+	"cocktail.h"
+	"ingredient.h"
+	"memtrace.h"
+	<vector>
+
+1526140570 c:\users\rinya_gsyab7b\desktop\ital2\cocktail.h
+	"ingredient.h"
+	<iostream>
+	<vector>
+
+1526140570 c:\users\rinya_gsyab7b\desktop\ital2\ingredient.h
+	<iostream>
+	<string>
+	<vector>
+
+1526132302 c:\users\rinya_gsyab7b\desktop\ital2\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1526147403 source:c:\users\rinya_gsyab7b\desktop\ital2\extras.cpp
+	"Extras.h"
+
+1526143683 c:\users\rinya_gsyab7b\desktop\ital2\extras.h
+	<iostream>
+	<fstream>
+	"Cocktail.h"
+
+1526140570 source:c:\users\rinya_gsyab7b\desktop\ital2\ingredient.cpp
+	"memtrace.h"
+	"ingredient.h"
+
+1526148497 source:c:\users\rinya_gsyab7b\desktop\ital2\main.cpp
+	<algorithm>
+	"memtrace.h"
+	"Extras.h"
+	"ingredient.h"
+	"cocktail.h"
+
+1526140570 source:c:\users\rinya_gsyab7b\desktop\ital2\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1526142362 source:d:\susu\2_prog2\cica_proghazija2\extras.cpp
+	"Extras.h"
+
+1526142362 d:\susu\2_prog2\cica_proghazija2\extras.h
+	<iostream>
+	<fstream>
+	"Cocktail.h"
+
+1526142362 d:\susu\2_prog2\cica_proghazija2\cocktail.h
+	"Ingredient.h"
+	<iostream>
+	<vector>
+
+1526142362 d:\susu\2_prog2\cica_proghazija2\ingredient.h
+	<iostream>
+	<string>
+	<vector>
+
+1526142362 source:d:\susu\2_prog2\cica_proghazija2\ingredient.cpp
+	"memtrace.h"
+	"Ingredient.h"
+
+1526142362 d:\susu\2_prog2\cica_proghazija2\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1526142362 source:d:\susu\2_prog2\cica_proghazija2\main.cpp
+	<algorithm>
+	"memtrace.h"
+	"Extras.h"
+	"Ingredient.h"
+	"Cocktail.h"
+
+1526142362 source:d:\susu\2_prog2\cica_proghazija2\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

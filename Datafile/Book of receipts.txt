@@ -1,0 +1,53 @@
+
+************************************
+Name of cocktail: Vodkasoda
+
+Ingredients:
+
+ - 4 cl Vodka ( Alcohol percentage: 37.5%, 150Ft/cl )
+ - 3 dl Soda ( Carbonated, 5Ft/cl)
+
+ The cocktail is carbonated
+
+Total volume: 34 cl
+Total alcohol percentage: 4.41176%
+Price: 750 Ft
+
+************************************
+
+
+************************************
+Name of cocktail: rumcola
+
+Ingredients:
+
+ - 0.4 dl rum ( Alcohol percentage: 35%, 150Ft/cl )
+ - 20 cl cola ( Carbonated, 10Ft/cl)
+ - 1 slice lemon ( 1Ft/slice )
+
+ The cocktail is carbonated
+
+Total volume: 24 cl
+Total alcohol percentage: 5.83333%
+Price: 801 Ft
+
+************************************
+
+
+************************************
+Name of cocktail: Rumcola
+
+Ingredients:
+
+ - 4 cl rum ( Alcohol percentage: 37.5%, 150Ft/cl )
+ - 2 dl cola ( Carbonated, 10Ft/cl)
+ - 1 slice Lemon ( 5Ft/slice )
+
+ The cocktail is carbonated
+
+Total volume: 24 cl
+Total alcohol percentage: 6.25%
+Price: 805 Ft
+
+************************************
+
